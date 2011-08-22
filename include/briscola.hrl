@@ -1,0 +1,2 @@
+-record(card,  {value, seed}).
+
